@@ -1,2 +1,2 @@
 # Frontend-learning
-前端学习
+js学习
